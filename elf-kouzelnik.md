@@ -61,9 +61,12 @@ Je to rozpoložení, ve kterém potkám družinu... A NEBO už tak nějakou chv�
 
 ## Božstvo
 
-Tady je to těžké – postava pravděpodobně prošla v poslední době (ať už dny, nebo měsíce...?) docela kataklyzmatem – předtím to asi byla nějaká forma boha „Dionýsos style“ – můžeme probrat v autě. Ale pokud se k někomu modlila, tak by to asi byl bůh štěstí a náhody.
+**Vara, bůh/aspekt Náhody, hazardu a šťastných konců**
+<sub>I kdyz prohrajes karty, tak to pro nekoho stastny konec je... :-)</sub>
 
-V současnosti to může být buď „pomsta“, nebo tak něco... pokud ti jde o motivy „sidequestů“, tak myslím, že tento background dává celkem potenciál k čemukoliv. V autě můžeme pořešit – co přesně moje rodina dělala, zda mám nějaké indicie, co se stalo (nebo ještě nic?)... a tak dále....
+Thalion se celou dobu spoléhal na svůj talent, prachy a štěstí v životě i v posteli. Když ho sestřelila šipka, zachránilo ho čisté shození karty - které vedlo k seznameni se s divkou...ktera hned vedle něj umírala, do jejíž schránky se mohl „přestěhovat“. Kdo jiný by ho vytáhl z hrobu než čistá, ironická náhoda? Popravde si neni ani uplne jisty, ze to kouzlo skutecne v tom stavu zvladnul seslat sam... 
+
+RP poloha: Občas utrousí: *"No jo, Vara se dneska zase ušklíbla, tak mi curfni jedno pivo."*. *"Snad si me Vara dneska nebude vsimat"*. *"Ta mrcha snad nema nic lepsiho na praci"* (ale zaroven vim, ze na me dava pozor - jen je to skodoliba mrcha)
 
 ## Hinty
 
@@ -116,15 +119,6 @@ vzdal?
 <sub>Na sve moralce/hodnotach si zaklada... a jejich plasticitu si nenjspis ani poradne neuvedomuje. "Dam ti XXXX zlatych, pokud zabijes sve pratele" by asi nikdy neudelal. Muselo by to byt vic shady - ale SKUTECNE pratele by ochranoval zivotem, kdyby to bylo aspon trochu rozumne...</sub>
 
 > Je mozne ze nejakej koncept vyssiho dobra by cokazal zamichat s odpovedima na tuto otazku: *"muzu vratit cas, pokud obetuji tyto duse?"* - nebylo by prijemne resit tato dilemata... neni to "rozhodne neobetuji"... I kdyz, oproti ostatnim, uz davno neni dite, v tomto smeru se stale hleda - jen ma asi vnitrni pocit, ze uz vi - takze by si hur pripoustel, ze nevi.
-
-## Buh
-
-**Vara, bůh/aspekt Náhody, hazardu a šťastných konců**
-<sub>I kdyz prohrajes karty, tak to pro nekoho stastny konec je... :-)</sub>
-
-Thalion se celou dobu spoléhal na svůj talent, prachy a štěstí v životě i v posteli. Když ho sestřelila šipka, zachránilo ho čisté shození karty - které vedlo k seznameni se s divkou...ktera hned vedle něj umírala, do jejíž schránky se mohl „přestěhovat“. Kdo jiný by ho vytáhl z hrobu než čistá, ironická náhoda? Popravde si neni ani uplne jisty, ze to kouzlo skutecne v tom stavu zvladnul seslat sam... 
-
-RP poloha: Občas utrousí: *"No jo, Vara se dneska zase ušklíbla, tak mi curfni jedno pivo."*. *"Snad si me Vara dneska nebude vsimat"*. *"Ta mrcha snad nema nic lepsiho na praci"* (ale zaroven vim, ze na me dava pozor - jen je to skodoliba mrcha)
 
 ---
 
