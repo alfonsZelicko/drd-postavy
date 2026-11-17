@@ -76,4 +76,21 @@ V současnosti to může být buď „pomsta“, nebo tak něco... pokud ti jde 
 
 -> jde mi o to, aby proste tam byla ta nepatricnost "duse sproste mluviciho 'postarsiho' bohema - maga (jako ZASE SCHOPNEHO, kdyz uz se do neceho opravdu pusti) v tele male holcicky" -> jakzoe veku nasich postav - nevim kolik nam das...? Obcas proste z niceho nic muze vyplodit veci, ktere by fakt nemela takto mala divka vedet... myslim znalosti ruzne...
 
+---
+
+## Dalsi napady - spis pro me, nez pro PJ:
+
+* Ta divka by mohla mit vlastni background - napriklad by to mohla byt nejaka schizofrenni holka a vedelo by se to o ni... Takze kdyz bych pak nekomu vysvetloval, ze nejsem mala holka a kdo vlastne jsem, mohli by na to reagovat: *"Jasny, jasny, Laylo, v poradku... teda Thalione, nebo jak si ted rikas... samozrejme."* -> duvody tohohle by nemusela znat ani moje postava... lol. A zvrat, ze to tak vlastne je, by taky mohl prijit behem hry O;-D Ale to uz asi prekombinovavam.
+	- Pokud by se tohle delo, tak bych mohl casem sam zacit pochybovat o tom, jak to vlastne je... Jediny, kdo by me v takovou chvili dokazal opravdu podrzet, by mohl byt muj magicky pomocnik. Mohly by z toho vzniknout celkem zajimave konverzace... Otazkou je, jak daleko v tom RP zajit v ramci nejakeho "latentniho silenstvi/paranoie/...", aby to zase neodvadelo moc pozornosti od samotneho hrani. Asi uz je to moc.
+* Opijeni se nad ramec zdraveho usudku - alespon ze zacatku. Je to zpusobene tim, ze moje telo dokazalo s alkoholem nejak pracovat, ale telo mlade divky to ma rozhodne jinak a ja na to nejsem zvykly.
+* Urcite tam bude nejaka forma paranoie - vzhledem k tomu, ze nevim, kdo a proc po mne jde, budu mit asi trochu trust issues.
+* Bude ho vytacet, kdyz s nim nekdo bude mluvit blahosklonne... *"Neboj, devenko, ja te ochranim... Nechces bonbonek?"*
+* Mozna muzu backstory jeste posunout tak, ze to nebude "holka, kterou jsem sbalil v hospode", ale nejaka vylozene mala holcicka, ktera sla nahodou kolem -> a hrat vylozene malou holcicku. Vezme mu to "magii sexy koz", ale mozna by ten kontrast vytvarel jeste vetsi dynamiku - zvlast kdyby se ukazalo, ze v ramci te "main quest line" jsme skupina, ktera neco dela, a on by jako kouzelnik byl jejim vudcem (?).
+	- *"To nas jako bude ukolovat mala holka?!"* *"Drz hubu, ty cucaku. Tece ti mliko po brade a budes tady delat ramena. Jsem z vas nejzkusenejsi a na rozdil od tebe uz mam neco za sebou!"*
+	- Deti maji jinak vyvinute chute: chlast urcite dava smysl udrzovat, ale chut na sladkosti taky! :-D
+		- *"Jedno pivo a lizatko"...*
+		- *"Neboj, devenko, ja te ochranim... nechces bonbonek?"* *"V pohode, kdyz bude nejhur, dezintegruju jeho telo pomoci bojove magie... ale ten bonbonek si vezmu."*
+	- Tu svoji "lascivni" cast osobnosti nemusi nutne zahodit - proste ji ma porad v hlave... Jako starej deda, ktery uz nemuze, vlastne ani nechce, ale stejne ma potrebu komentovat a ma chut si sahnout...
+
+
 ![Layla ala Thalion](https://i.pinimg.com/736x/36/62/e2/3662e28c106980e37dc90acf4d230e03.jpg)
