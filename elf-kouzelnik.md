@@ -82,9 +82,15 @@ V současnosti to může být buď „pomsta“, nebo tak něco... pokud ti jde 
 
 Kdyz preskocim pravidla jako takova, tak:
 
+Krome klasickych dovednosti bych rad mel ramcovou 
+* **orientaci v politice** (na urovni "moji rodice byly soucasti") - jak moc - to necham na tobe. Rozhodne bych rad neco jako "Starej XX to vzdycky pekl s YY a je temer jiste, ze pokud se ZZ prida na stranu YY, tak ho XX podpori proti FF...." - spis takove "nahodne Insides info" - ne nutne neco praktickeho/pouzitelneho pro nas pribeh/hrani - spis tak zase v rovine RP - muzes si to vymyslet za pochodu na dokresleni sveta a rikat to "mimi usty" (az tak na tom netrvam, ale ten background se na to celkem hodi) - nikdy jsem ale nedaval takovej pozor, abych to mohl nejak efektivne zhodnotit
+* **orientaci v magii** - tady vaham. chtel jsem to stavet spis smerem na maga - a na intuitivni magii, nez akademicke vzdelani - ve vysledku je asi jedno jestli "vycitim ze..." a nebo poznam "jedna se o kouzlo XY"... jsde mi spis o ten pristup k tomu. z magie me vzdy zajimaly spis ty prakticke veci "aaa - tahle ruda mi umozni utlumit efekt magie, tento magicky predmet je skvelej, s nim muzu..." - TO JE VL. DOST PRAKTICKE - CASTO ALE NECTU "PRIBALOVE LETAKY A VAROVANI" O:-) 
+* **Al-Hazad** - to je asi vec, ktera by ho zaijmala - Umeni je jeho obor a pokud tam je "obecne znama mekka techto znalosti",tak by ho prirozene tahlo vedet o tomto ostrovu/narodu/statu vic... **On je ale proste ten typ, ze vic nez komplexni znalosti ho zajimaji "funny facts"**.
+
 **cteni/psani**, mozna nejakej tne jazyk (ale budu asi suplovat kouzlem), **kartografie** (to asi bude vhodne - umet cist v mapach a pripadne tma zanaset novou realitu), plavani, **jizda na koni** (a **schopnost ohodnotit kone**: "mlada kocena, co rozumi autum jako 30-ti letej tata od rodiny"), **etiketa** (protoze se to k ni vubec nehodi, ale k "puvodni" postave ano), **handlovani** (kombinace sebeduvery a zkusenosti - viz. ty kone), **Astronomie**(viz. nize), **Vypravecstvi** (zde kombinace prirozeneho charismatu a 'spolecensky aktivniho' cloveka... grimasy, zmena tonu hlasu,...), **Asketismus** (spis proste "je to mala kocena - moc neji")
 
-### Kolem Astronomie bych rad postavil velkou cast postavy.. 
+#### Kolem Astronomie bych rad postavil velkou cast postavy.. 
+<sub>do budoucna planuji maga, takze to "vnimani aury lidi", "mentalni utoky/pusobeni na mysl",... tohle je takova ta latentni verze...</sub>
 * Představuji si kombinaci intuice, vnímání aur, psychometrie a občasných prorockých záblesků. Některé věci by Thalion mohl vycítit téměř okamžitě, jiné by vyžadovaly soustředění, fyzický kontakt s předmětem, případně komplexnější rituál.
 * Byl rád, kdybych mohl tuto schopnost používat poměrně volně, třeba i opakovaně. Ne vždy musí jít o zásadní odhalení nebo posun v příběhu. Často bych ji chtěl využívat jako nástroj pro takovou tu příjemnou příběhovou „omáčku“ – elegantní způsob, jak do hry vnášet drobné, zdánlivě nepodstatné, ale atmosférické informace. Samozřejmě pokud by to začalo narušovat tempo hry nebo být otravné, můžeme to řešit přímo v danou chvíli.
 
@@ -93,6 +99,23 @@ Kdyz preskocim pravidla jako takova, tak:
 * **Otisk duše** – z povahy předmětu, který má v držení, by mohl vycítit něco o jeho majiteli. Jeho povahu, temperament, některé fyzické rysy, případně emoce, které k němu dotyčný chová. Ideálně by to fungovalo ještě lépe, pokud má tazatel k majiteli nějaký vztah. Podobně by mohl číst i vlastnoručně psané texty – jako by se v nich zachytil kousek jejich autora.
 * **Předzvěst událostí** – náznaky toho, jak dopadne konkrétní událost. Ne nutně přesné odpovědi, ale spíše fragmenty možných výsledků. Vítězství, zrada, krev, smrt, ztráta... Někdy možná jen nepříjemný pocit, že něco není tak, jak se zdá.
 * **Pouto ztracených věcí** – schopnost vystopovat předmět, ke kterému má tazatel silný citový vztah... skrze vnímání pouta, které mezi člověkem a předmětem přetrvává.
+
+## Otazky a odpovedi
+
+### Co bys udělal, kdybys do rukou najednou dostal velkou moc? 
+*tak to je v klidu. v tom mam jasno. pouzil bych ji. usmazil bych par zmrdu (min. typuju tak dva, ale kdo vi kolik jich v tom bylo zapletenych)... a pak - to je otazka - hrat si na Krale je dvousecny mec. Lidi maji vlastni vuly a resit jejich problemy neni tak mile jako pomilovat krasnou divku...*
+<sub>pro Thaliona je Umeni cesta - bavi ho to uspokojeni z objevovani/zdokonalovani svych dovednosti - prekonavani limit vcerejska. Jeho pozitkarsky zivot byla spis vypln minulosti - nez v sobe objevil Silu. I kdyz se tak rad prezentuje, vlastne je mnohem min "parmen", nez predstira - a snad je v nem i nejaka skutecna "moudrost", ktera ale nerad priznava... ztratou puvodniho tela se v nem neco zlomilo - neco ho velmi zmenilo... ale jsme na zacatku pribehu - uvidime kam se jeho cesta ubere</sub>
+
+### Jakou cenu má Tvůj vlastní život? Za jakých okolností by ses ho dobrovolně
+vzdal?
+*PROBOHA PROC bych se ho mel vzdavat?!*
+<sub>Pro vyssi dobro - ale v tomto konceptu nema uplne jasno... Ma vztek a zlost... a strach. I kdyz predstira, jak ho ztrata rodiny zasahla - realita je takova, ze pri odjezdu na Universitu se s nim prislo rozloucit jen sluzebnictvo. Sveho otce nevidel tak dlouho, ze si vl. ani neni jist, jak vypadal - v realu... na obrazech ho videl hodnekrat... Mozna kdyby nasel skutecnou rodinu a citil se milovan, tak by pro ne dokazal zivot riskovat. A to i ve vyraznem nepomeru... rekneme 99:1 na smrt (skoro jista) - ale proste "jit na jistotu na smrt?! to neni muj styl"</sub>
+
+### Za jakou cenu bys byl ochoten zradit své přátele a/nebo vlastní přesvědčení?
+*ach ta mysl - umet sam sebe presvedcit o spravnosti svych cinu - to je umeni, ktere ovladam... jedine pak muzu opravdu efektivne presvedcovat ostatni*
+<sub>Na sve moralce/hodnotach si zaklada... a jejich plasticitu si nenjspis ani poradne neuvedomuje. "Dam ti XXXX zlatych, pokud zabijes sve pratele" by asi nikdy neudelal. Muselo by to byt vic shady - ale SKUTECNE pratele by ochranoval zivotem, kdyby to bylo aspon trochu rozumne...</sub>
+
+> Je mozne ze nejakej koncept vyssiho dobra by cokazal zamichat s odpovedima na tuto otazku: *"muzu vratit cas, pokud obetuji tyto duse?"* - nebylo by prijemne resit tato dilemata... neni to "rozhodne neobetuji"... I kdyz, oproti ostatnim, uz davno neni dite, v tomto smeru se stale hleda - jen ma asi vnitrni pocit, ze uz vi - takze by si hur pripoustel, ze nevi.
 
 ---
 
