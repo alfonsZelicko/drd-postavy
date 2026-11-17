@@ -85,7 +85,7 @@ V současnosti to může být buď „pomsta“, nebo tak něco... pokud ti jde 
 * Opijeni se nad ramec zdraveho usudku - alespon ze zacatku. Je to zpusobene tim, ze moje telo dokazalo s alkoholem nejak pracovat, ale telo mlade divky to ma rozhodne jinak a ja na to nejsem zvykly.
 * Urcite tam bude nejaka forma paranoie - vzhledem k tomu, ze nevim, kdo a proc po mne jde, budu mit asi trochu trust issues.
 * Bude ho vytacet, kdyz s nim nekdo bude mluvit blahosklonne... *"Neboj, devenko, ja te ochranim... Nechces bonbonek?"*
-* Mozna muzu backstory jeste posunout tak, ze to nebude "holka, kterou jsem sbalil v hospode", ale nejaka vylozene mala holcicka, ktera sla nahodou kolem -> a hrat vylozene malou holcicku. Vezme mu to "magii sexy koz", ale mozna by ten kontrast vytvarel jeste vetsi dynamiku - zvlast kdyby se ukazalo, ze v ramci te "main quest line" jsme skupina, ktera neco dela, a on by jako kouzelnik byl jejim vudcem (?).
+* **Mozna muzu backstory jeste posunout tak, ze to nebude "holka, kterou jsem sbalil v hospode", ale nejaka vylozene mala holcicka, ktera sla nahodou kolem -> a hrat vylozene malou holcicku. Vezme mu to "magii sexy koz", ale mozna by ten kontrast vytvarel jeste vetsi dynamiku - zvlast kdyby se ukazalo, ze v ramci te "main quest line" jsme skupina, ktera neco dela, a on by jako kouzelnik byl jejim vudcem (?).**
 	- *"To nas jako bude ukolovat mala holka?!"* *"Drz hubu, ty cucaku. Tece ti mliko po brade a budes tady delat ramena. Jsem z vas nejzkusenejsi a na rozdil od tebe uz mam neco za sebou!"*
 	- Deti maji jinak vyvinute chute: chlast urcite dava smysl udrzovat, ale chut na sladkosti taky! :-D
 		- *"Jedno pivo a lizatko"...*
