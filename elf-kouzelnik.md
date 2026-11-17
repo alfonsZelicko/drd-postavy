@@ -78,6 +78,25 @@ V současnosti to může být buď „pomsta“, nebo tak něco... pokud ti jde 
 
 ---
 
+## Dovednosti
+
+Kdyz preskocim pravidla jako takova, tak:
+
+**cteni/psani**, mozna nejakej tne jazyk (ale budu asi suplovat kouzlem), **kartografie** (to asi bude vhodne - umet cist v mapach a pripadne tma zanaset novou realitu), plavani, **jizda na koni** (a **schopnost ohodnotit kone**: "mlada kocena, co rozumi autum jako 30-ti letej tata od rodiny"), **etiketa** (protoze se to k ni vubec nehodi, ale k "puvodni" postave ano), **handlovani** (kombinace sebeduvery a zkusenosti - viz. ty kone), **Astronomie**[^1], **Vypravecstvi** (zde kombinace prirozeneho charismatu a 'spolecensky aktivniho' cloveka... grimasy, zmena tonu hlasu,...), **Asketismus** (spis proste "je to mala kocena - moc neji")
+
+### Kolem Astronomie bych rad postavil velkou cast postavy.. 
+* Představuji si kombinaci intuice, vnímání aur, psychometrie a občasných prorockých záblesků. Některé věci by Thalion mohl vycítit téměř okamžitě, jiné by vyžadovaly soustředění, fyzický kontakt s předmětem, případně komplexnější rituál.
+* Byl rád, kdybych mohl tuto schopnost používat poměrně volně, třeba i opakovaně. Ne vždy musí jít o zásadní odhalení nebo posun v příběhu. Často bych ji chtěl využívat jako nástroj pro takovou tu příjemnou příběhovou „omáčku“ – elegantní způsob, jak do hry vnášet drobné, zdánlivě nepodstatné, ale atmosférické informace. Samozřejmě pokud by to začalo narušovat tempo hry nebo být otravné, můžeme to řešit přímo v danou chvíli.
+
+#### Co by mohl vycítit či spatřit
+- tohle je vl. popis Astrologie - je to pomerne silna schopnost - dost pak zalezi na soucinosti s PJ
+* **Ozvěny budoucnosti** – záblesky toho, co čeká návštěvníka, případně někoho, koho osobně zná. Nemusí jít o jednoznačné proroctví, ale třeba jen o obraz, symbol nebo varovný pocit...
+* **Otisk duše** – z povahy předmětu, který má v držení, by mohl vycítit něco o jeho majiteli. Jeho povahu, temperament, některé fyzické rysy, případně emoce, které k němu dotyčný chová. Ideálně by to fungovalo ještě lépe, pokud má tazatel k majiteli nějaký vztah. Podobně by mohl číst i vlastnoručně psané texty – jako by se v nich zachytil kousek jejich autora.
+* **Předzvěst událostí** – náznaky toho, jak dopadne konkrétní událost. Ne nutně přesné odpovědi, ale spíše fragmenty možných výsledků. Vítězství, zrada, krev, smrt, ztráta... Někdy možná jen nepříjemný pocit, že něco není tak, jak se zdá.
+* **Pouto ztracených věcí** – schopnost vystopovat předmět, ke kterému má tazatel silný citový vztah... skrze vnímání pouta, které mezi člověkem a předmětem přetrvává.
+
+---
+
 ## Dalsi napady - spis pro me, nez pro PJ:
 
 * Ta divka by mohla mit vlastni background - napriklad by to mohla byt nejaka schizofrenni holka a vedelo by se to o ni... Takze kdyz bych pak nekomu vysvetloval, ze nejsem mala holka a kdo vlastne jsem, mohli by na to reagovat: *"Jasny, jasny, Laylo, v poradku... teda Thalione, nebo jak si ted rikas... samozrejme."* -> duvody tohohle by nemusela znat ani moje postava... lol. A zvrat, ze to tak vlastne je, by taky mohl prijit behem hry O;-D Ale to uz asi prekombinovavam.
