@@ -122,7 +122,7 @@ vzdal?
 **Vara, bůh/aspekt Náhody, hazardu a šťastných konců**
 <sub>I kdyz prohrajes karty, tak to pro nekoho stastny konec je... :-)</sub>
 
-Thalion se celou dobu spoléhá na svůj talent, prachy a štěstí v životě i v posteli. Když ho sestřelila šipka, zachránilo ho čisté shození karty – že hned vedle něj umírala holka, do jejíž schránky se mohl „přestěhovat“. Kdo jiný by ho vytáhl z hrobu než čistá, ironická náhoda?
+Thalion se celou dobu spoléhal na svůj talent, prachy a štěstí v životě i v posteli. Když ho sestřelila šipka, zachránilo ho čisté shození karty - které vedlo k seznameni se s divkou...ktera hned vedle něj umírala, do jejíž schránky se mohl „přestěhovat“. Kdo jiný by ho vytáhl z hrobu než čistá, ironická náhoda? Popravde si neni ani uplne jisty, ze to kouzlo skutecne v tom stavu zvladnul seslat sam... 
 
 RP poloha: Občas utrousí: *"No jo, Vara se dneska zase ušklíbla, tak mi curfni jedno pivo."*. *"Snad si me Vara dneska nebude vsimat"*. *"Ta mrcha snad nema nic lepsiho na praci"* (ale zaroven vim, ze na me dava pozor - jen je to skodoliba mrcha)
 
