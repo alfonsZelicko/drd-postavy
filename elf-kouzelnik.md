@@ -117,6 +117,15 @@ vzdal?
 
 > Je mozne ze nejakej koncept vyssiho dobra by cokazal zamichat s odpovedima na tuto otazku: *"muzu vratit cas, pokud obetuji tyto duse?"* - nebylo by prijemne resit tato dilemata... neni to "rozhodne neobetuji"... I kdyz, oproti ostatnim, uz davno neni dite, v tomto smeru se stale hleda - jen ma asi vnitrni pocit, ze uz vi - takze by si hur pripoustel, ze nevi.
 
+## Buh
+
+**Vara, bůh/aspekt Náhody, hazardu a šťastných konců**
+<sub>I kdyz prohrajes karty, tak to pro nekoho stastny konec je... :-)</sub>
+
+Thalion se celou dobu spoléhá na svůj talent, prachy a štěstí v životě i v posteli. Když ho sestřelila šipka, zachránilo ho čisté shození karty – že hned vedle něj umírala holka, do jejíž schránky se mohl „přestěhovat“. Kdo jiný by ho vytáhl z hrobu než čistá, ironická náhoda?
+
+RP poloha: Občas utrousí: *"No jo, Vara se dneska zase ušklíbla, tak mi curfni jedno pivo."*. *"Snad si me Vara dneska nebude vsimat"*. *"Ta mrcha snad nema nic lepsiho na praci"* (ale zaroven vim, ze na me dava pozor - jen je to skodoliba mrcha)
+
 ---
 
 ## Dalsi napady - spis pro me, nez pro PJ:
@@ -132,6 +141,7 @@ vzdal?
 		- *"Jedno pivo a lizatko"...*
 		- *"Neboj, devenko, ja te ochranim... nechces bonbonek?"* *"V pohode, kdyz bude nejhur, dezintegruju jeho telo pomoci bojove magie... ale ten bonbonek si vezmu."*
 	- ~~Tu svoji "lascivni" cast osobnosti nemusi nutne zahodit - proste ji ma porad v hlave... Jako starej deda, ktery uz nemuze, vlastne ani nechce, ale stejne ma potrebu komentovat a ma chut si sahnout...~~
+* Jakožto student Umeni z bohaté rodiny mám přehled o magických bizarnostech, lektvarech a podivných relikviích z ostrova Al-Hazad - kdyz mi dojde mana, mohu z kapsy vytahnout napodobeninu neceho, co by mohlo, kdyby to bylo opravdu ONO zavarit nepriteli... 
 
 
 ![Layla ala Thalion](https://i.pinimg.com/736x/36/62/e2/3662e28c106980e37dc90acf4d230e03.jpg)
