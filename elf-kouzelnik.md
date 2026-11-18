@@ -1,4 +1,5 @@
-<p align="right">v0.9.1</p>
+<p align="right">v0.9.2</p>
+
 # Elf - kouzelník, ale...
 
 # Obsah
