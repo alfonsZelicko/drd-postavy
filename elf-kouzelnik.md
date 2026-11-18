@@ -61,6 +61,8 @@ Když jsem se probral, starala se o mě nějaká stařena. Ze začátku mě troc
 Pomalu mi začalo docházet, co se stalo. Ale nechápal jsem proč. Nebo kdo. Vlastně... asi jsem byl pořád tak trochu ve fázi popření.
 Tohle je prostě jen zasranej, zlej sen.*
 
+[↑ Zpět na obsah](#obsah)
+
 ## Koncept
 
 Je to elf, muž, 30 let (?). Ale je v těle ženy, člověka, 15+/-(?). Jak se to stalo – někdo se ho pokusil zabít, ale nakonec se mu jen podařilo zničit jeho tělo. On se stihl pomocí kouzla Převtělení dostat do těla mrtvé ženy, která byla hnedle vedle. Je to DOST ČERSTVÉ. Neví, kdo ho chtěl zabít, ani proč... a PROČ na jeho tělo ihned seslali kouzlo „ZMIZ“.
@@ -69,11 +71,15 @@ V rámci jednoduchosti: staty budu mít pořád Elf → je to jen pro zábavu �
 
 Je to rozpoložení, ve kterém potkám družinu... A NEBO už tak nějakou chvíli budu – zjistím, že moje rodina je celá vyvražděná, že na ni bylo nalezeno (zpětně?) nějaké kompro, že jsou vlastně vlastizrádci... blablabla → jak se to hodí do příběhu **tobě**. Když už to bude nějakou chvíli, tak se třeba můžu „jakože vrátit na univerzitu“ jako talent, který když bude vycvičený, tak bude moct „makat na té revitalizaci pohraničí“? Tyhle části už nechám na tobě, jak by se ti to hodilo.
 
+[↑ Zpět na obsah](#obsah)
+
 ## Cíle
 
 *„Jeden zmrd tu pořád potřebuje být smaženým zmrdem – já ho jen musím najít... a než ho usmažím, tak zjistím, proč je takovej zmrd... a kdo je zmrdu král, pokud někdo takovej je – a já věřím, že je... a toho usmažím taky“.*
 
 > Pomsta :-)
+
+[↑ Zpět na obsah](#obsah)
 
 ## Božstvo
 
@@ -83,6 +89,8 @@ Je to rozpoložení, ve kterém potkám družinu... A NEBO už tak nějakou chv�
 Thalion se celou dobu spoléhal na svůj talent, prachy a štěstí v životě i v posteli. Když ho sestřelila šipka, zachránilo ho čisté shození karty - které vedlo k seznameni se s divkou...ktera hned vedle něj umírala, do jejíž schránky se mohl „přestěhovat“. Kdo jiný by ho vytáhl z hrobu než čistá, ironická náhoda? Popravde si neni ani uplne jisty, ze to kouzlo skutecne v tom stavu zvladnul seslat sam... 
 
 RP poloha: Občas utrousí: *"No jo, Vara se dneska zase ušklíbla, tak mi curfni jedno pivo."*. *"Snad si me Vara dneska nebude vsimat"*. *"Ta mrcha snad nema nic lepsiho na praci"* (ale zaroven vim, ze na me dava pozor - jen je to skodoliba mrcha)
+
+[↑ Zpět na obsah](#obsah)
 
 ## Hinty
 
@@ -94,6 +102,8 @@ RP poloha: Občas utrousí: *"No jo, Vara se dneska zase ušklíbla, tak mi curf
 * "tak ted vam ukazu,  jakou moc maji moje kozy" - kdyz se bude snazit presvedcit nejakeho muze o necem/k necemu
 
 -> jde mi o to, aby proste tam byla ta nepatricnost "duse sproste mluviciho 'postarsiho' bohema - maga (jako ZASE SCHOPNEHO, kdyz uz se do neceho opravdu pusti) v tele male holcicky" -> jakzoe veku nasich postav - nevim kolik nam das...? Obcas proste z niceho nic muze vyplodit veci, ktere by fakt nemela takto mala divka vedet... myslim znalosti ruzne...
+
+[↑ Zpět na obsah](#obsah)
 
 ---
 
@@ -119,6 +129,8 @@ Krome klasickych dovednosti bych rad mel ramcovou
 * **Předzvěst událostí** – náznaky toho, jak dopadne konkrétní událost. Ne nutně přesné odpovědi, ale spíše fragmenty možných výsledků. Vítězství, zrada, krev, smrt, ztráta... Někdy možná jen nepříjemný pocit, že něco není tak, jak se zdá.
 * **Pouto ztracených věcí** – schopnost vystopovat předmět, ke kterému má tazatel silný citový vztah... skrze vnímání pouta, které mezi člověkem a předmětem přetrvává.
 
+[↑ Zpět na obsah](#obsah)
+
 ## Otazky a odpovedi
 
 ### Co bys udělal, kdybys do rukou najednou dostal velkou moc? 
@@ -139,6 +151,8 @@ vzdal?
 
 > Je mozne ze nejakej koncept vyssiho dobra by cokazal zamichat s odpovedima na tuto otazku: *"muzu vratit cas, pokud obetuji tyto duse?"* - nebylo by prijemne resit tato dilemata... neni to "rozhodne neobetuji"... I kdyz, oproti ostatnim, uz davno neni dite, v tomto smeru se stale hleda - jen ma asi vnitrni pocit, ze uz vi - takze by si hur pripoustel, ze nevi.
 
+[↑ Zpět na obsah](#obsah)
+
 ---
 
 ## Dalsi napady - spis pro me, nez pro PJ:
@@ -155,6 +169,8 @@ vzdal?
 		- *"Neboj, devenko, ja te ochranim... nechces bonbonek?"* *"V pohode, kdyz bude nejhur, dezintegruju jeho telo pomoci bojove magie... ale ten bonbonek si vezmu."*
 	- ~~Tu svoji "lascivni" cast osobnosti nemusi nutne zahodit - proste ji ma porad v hlave... Jako starej deda, ktery uz nemuze, vlastne ani nechce, ale stejne ma potrebu komentovat a ma chut si sahnout...~~
 * Jakožto student Umeni z bohaté rodiny mám přehled o magických bizarnostech, lektvarech a podivných relikviích z ostrova Al-Hazad - kdyz mi dojde mana, mohu z kapsy vytahnout napodobeninu neceho, co by mohlo, kdyby to bylo opravdu ONO zavarit nepriteli... 
+
+[↑ Zpět na obsah](#obsah)
 
 
 ![Layla ala Thalion](https://i.pinimg.com/736x/36/62/e2/3662e28c106980e37dc90acf4d230e03.jpg)
@@ -190,3 +206,5 @@ vzdal?
 
 ## Inventar
 Nechavam to kompletne na vojenskem gearu - to co jsem nafasoval. V aute muzeme poresit - nebo proste az mi das nejake realie navazane na moji postavu "Armada - no to je jedna velka smelina" "Jsi radovy vojak, vas sef je ten typ, co kvalitni gear prodava a vam dava blbosti"..... Tak pak podle toho doladim Kouzla/Inventar
+
+[↑ Zpět na obsah](#obsah)
