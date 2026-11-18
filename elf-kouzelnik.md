@@ -1,5 +1,21 @@
 # Elf - kouzelník, ale...
 
+# Obsah
+
+- [Backstory](#backstory)
+- [Koncept](#koncept)
+- [Cíle](#cíle)
+- [Božstvo](#božstvo)
+- [Hinty](#hinty)
+- [Dovednosti](#dovednosti)
+  - [Astronomie](#astronomie)
+- [Otázky a odpovědi](#otázky-a-odpovědi)
+- [Další nápady](#další-nápady)
+- [Kouzla](#kouzla)
+- [Inventář](#inventář)
+
+---
+
 ## Backstory
 
 *Jsem elf. Takovej ten typ – z bohaté rodiny. Až příliš bohaté, někdo by mohl říct. Byl jsem asi sedmý syn svého otce a druhý své matky, takže celkem k ničemu. Válka už skončila, a tím pádem bylo jasné, že „záložní synové“ už nejsou tolik potřeba. Začalo se tedy přemýšlet, co se mnou.
@@ -107,15 +123,18 @@ Krome klasickych dovednosti bych rad mel ramcovou
 
 ### Co bys udělal, kdybys do rukou najednou dostal velkou moc? 
 *tak to je v klidu. v tom mam jasno. pouzil bych ji. usmazil bych par zmrdu (min. typuju tak dva, ale kdo vi kolik jich v tom bylo zapletenych)... a pak - to je otazka - hrat si na Krale je dvousecny mec. Lidi maji vlastni vuly a resit jejich problemy neni tak mile jako pomilovat krasnou divku...*
+
 <sub>pro Thaliona je Umeni cesta - bavi ho to uspokojeni z objevovani/zdokonalovani svych dovednosti - prekonavani limit vcerejska. Jeho pozitkarsky zivot byla spis vypln minulosti - nez v sobe objevil Silu. I kdyz se tak rad prezentuje, vlastne je mnohem min "parmen", nez predstira - a snad je v nem i nejaka skutecna "moudrost", ktera ale nerad priznava... ztratou puvodniho tela se v nem neco zlomilo - neco ho velmi zmenilo... ale jsme na zacatku pribehu - uvidime kam se jeho cesta ubere</sub>
 
 ### Jakou cenu má Tvůj vlastní život? Za jakých okolností by ses ho dobrovolně
 vzdal?
 *PROBOHA PROC bych se ho mel vzdavat?!*
+
 <sub>Pro vyssi dobro - ale v tomto konceptu nema uplne jasno... Ma vztek a zlost... a strach. I kdyz predstira, jak ho ztrata rodiny zasahla - realita je takova, ze pri odjezdu na Universitu se s nim prislo rozloucit jen sluzebnictvo. Sveho otce nevidel tak dlouho, ze si vl. ani neni jist, jak vypadal - v realu... na obrazech ho videl hodnekrat... Mozna kdyby nasel skutecnou rodinu a citil se milovan, tak by pro ne dokazal zivot riskovat. A to i ve vyraznem nepomeru... rekneme 99:1 na smrt (skoro jista) - ale proste "jit na jistotu na smrt?! to neni muj styl"</sub>
 
 ### Za jakou cenu bys byl ochoten zradit své přátele a/nebo vlastní přesvědčení?
 *ach ta mysl - umet sam sebe presvedcit o spravnosti svych cinu - to je umeni, ktere ovladam... jedine pak muzu opravdu efektivne presvedcovat ostatni*
+
 <sub>Na sve moralce/hodnotach si zaklada... a jejich plasticitu si nenjspis ani poradne neuvedomuje. "Dam ti XXXX zlatych, pokud zabijes sve pratele" by asi nikdy neudelal. Muselo by to byt vic shady - ale SKUTECNE pratele by ochranoval zivotem, kdyby to bylo aspon trochu rozumne...</sub>
 
 > Je mozne ze nejakej koncept vyssiho dobra by cokazal zamichat s odpovedima na tuto otazku: *"muzu vratit cas, pokud obetuji tyto duse?"* - nebylo by prijemne resit tato dilemata... neni to "rozhodne neobetuji"... I kdyz, oproti ostatnim, uz davno neni dite, v tomto smeru se stale hleda - jen ma asi vnitrni pocit, ze uz vi - takze by si hur pripoustel, ze nevi.
@@ -139,3 +158,35 @@ vzdal?
 
 
 ![Layla ala Thalion](https://i.pinimg.com/736x/36/62/e2/3662e28c106980e37dc90acf4d230e03.jpg)
+
+## Kouzla:
+1: **Dubl** - pokud na konci dne mam manu, tak ho pokazde vyvolam - takovej osobni sluha/poskok
+2: **Neviditelnost** - klasika klasik
+3: **Rozptyl kouzla** - tak nejak citim, ze to je povinne ;-D beru "co by mel kadrovy mag mit"
+4: **Orxanuv zamek** - opet: predpokladam, ze zabezpeceni vojenske vybavy by melo byt na nekolika urovnich O:)
+5: **Zmiz** - rad bych si ho ale pojmenoval DEZINTEGRACE -> zni to vyrazne vic cool O:)
+6: **Babelska rybka** (tady bych se rad pobavil, JAK MOC budeme hrat dalsi jazyky - kouzel mam fakt malo, tak jestli mam fnukat za Neviditelnou tornu (PPE, ja viiim!) radsi, nebo treba starej dobrej Hyperprostor/Metamorfoza O:))
+7: **Zesmesni** (toto kouzlo je spis takove flavor: ja porad nevim svoji roly -> pokud bych mel byt "nejaka sarze, co vede skupinu", tak si dokazu predstavit, ze mala zena si nejakejma frckama mezi vojaky moc respektu neziska... pokud vsak nejakemu pridrzlemu vojakovi pricaruje praseci rypacek a necha ho tak chodit nekolik dnu.... ostatni budou vedet, ze ji nemaji provokovat - kdybych mel byt radovy vojak a nepotrebuji mit respekt takto, tak bych volil neco vic praktickeho)
+
+### Dalsi napady: 
+* **Velke ochranne kouzlo** (ale PPE) 
+	- *kadrovy mag, ktery chrani svoji jednotku*
+* **Zdvojeni** 
+	- *prvnich 5 zasahu mohu ignorovat - survival*
+* **Hypnosa/Cteni myslenek/Svaz postavu** 
+	- *super kouzla, ale je tam problem: chci byt Mag, vezmu si az jako Mag*
+	- napada me house rulle -> pokud uz je umim, tak se misto nich mohu naucit jina? O:)
+* **Cerny blesk**
+	- nenavidim kouzla typu "blesky" - hrozna nuda na hrani a mechanika
+	- nejakej ale casem mit budu muset, protoze potrebuju usmazit nejakyho zmrda
+
+### Az bude vic many
+* **Klika** - hromada many, alev klicoivych vecech fajne
+* **Portal** - paradni kouzlo, usetri spoustu 'zbytecneho cestovani'
+* **Preveleni** - backstory spell, PPE - naucim se pozdeji
+* **Zapujceni** - support - prozkoumat oblast pomoci zvirete
+* **Poslani** - to je spis tak "cool v armade", ale verim ze rozkaz, nebo "kozologie" staci O:)
+* **Zrcadlove kouzlo** - take prijemne defensivni kouzlo
+
+## Inventar
+Nechavam to kompletne na vojenskem gearu - to co jsem nafasoval. V aute muzeme poresit - nebo proste az mi das nejake realie navazane na moji postavu "Armada - no to je jedna velka smelina" "Jsi radovy vojak, vas sef je ten typ, co kvalitni gear prodava a vam dava blbosti"..... Tak pak podle toho doladim Kouzla/Inventar
