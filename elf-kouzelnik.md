@@ -14,8 +14,6 @@
 - [Kouzla](#kouzla)
 - [Inventář](#inventář)
 
----
-
 ## Backstory
 
 *Jsem elf. Takovej ten typ – z bohaté rodiny. Až příliš bohaté, někdo by mohl říct. Byl jsem asi sedmý syn svého otce a druhý své matky, takže celkem k ničemu. Válka už skončila, a tím pádem bylo jasné, že „záložní synové“ už nejsou tolik potřeba. Začalo se tedy přemýšlet, co se mnou.
@@ -105,8 +103,6 @@ RP poloha: Občas utrousí: *"No jo, Vara se dneska zase ušklíbla, tak mi curf
 
 [↑ Zpět na obsah](#obsah)
 
----
-
 ## Dovednosti
 
 Kdyz preskocim pravidla jako takova, tak:
@@ -152,8 +148,6 @@ vzdal?
 > Je mozne ze nejakej koncept vyssiho dobra by cokazal zamichat s odpovedima na tuto otazku: *"muzu vratit cas, pokud obetuji tyto duse?"* - nebylo by prijemne resit tato dilemata... neni to "rozhodne neobetuji"... I kdyz, oproti ostatnim, uz davno neni dite, v tomto smeru se stale hleda - jen ma asi vnitrni pocit, ze uz vi - takze by si hur pripoustel, ze nevi.
 
 [↑ Zpět na obsah](#obsah)
-
----
 
 ## Dalsi napady - spis pro me, nez pro PJ:
 
