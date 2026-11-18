@@ -1,3 +1,4 @@
+<p align="right">v0.9.1</p>
 # Elf - kouzelník, ale...
 
 # Obsah
@@ -33,9 +34,8 @@ Snažil jsem se nevěřit té šipce, která jí trčela ze zad. Do další fáz
 
 *Víte, jak poznáte, že umírá intelektuál? Přísahám! PŘÍSAHÁM! První, co mě napadlo, když jsem uviděl ten hrot, bylo:
 Kurva, vždyť já znám kouzlo, kterým bych mohl tu šipku odklonit! Kurva! JÁ HO FAKT ZNÁM!
-A druhé? To neuhádnete.*
-
-*Maxfoldův slovník botanický, strana 168, poznámka pod čarou: Kurare se vyznačuje...
+A druhé? To neuhádnete...
+Maxfoldův slovník botanický, strana 168, poznámka pod čarou: Kurare se vyznačuje...
 Blablabla. Většina jedu se ze špičky otřela do mého těla, ale něco málo toho svinstva tam přece jen zůstalo. Byl jsem na sebe skoro pyšný, když jsem správně poznal, že růžová pěna kolem hrotu, který mi trčel z hrudi, je způsobená průstřelem plic.
 Někde vzadu v hlavě mi docházelo, že už jsem vlastně mrtvý a jen to trochu protahuju. Ale já se prostě zafixoval na jedinou myšlenku: pokud ještě uvidím toho zmrda, co mi to udělal, tak ho aspoň usmažím...
 Ten zmrd ale věděl, že jsem odepsanej. Mrtvola, která to jen ještě nepochopila. Stále ve fázi popření.
@@ -45,11 +45,8 @@ Shroutil jsem se na tu dívku. Hlavou rovnou mezi její půlky. Chtěl jsem se j
 *A právě v posledních vteřinách mého života se moje mysl konečně trochu vyjasnila...*
 
 *hluboky hlas: „Ta holka ještě žije, šéfe.“*
-
 *zensky hlas: „Ta nás nezajímá. Je ten zmetek mrtvej?“*
-
 *hluboky hlas:„Je.“*
-
 *zensky hlas: „'Taufi'. Jdeme.“*
 
 *Tíha na mém těle trochu povolila. Cítil jsem se mizerně, ale nedokázal jsem ani otevřít oči.
@@ -114,7 +111,9 @@ Krome klasickych dovednosti bych rad mel ramcovou
 
 **cteni/psani**, mozna nejakej tne jazyk (ale budu asi suplovat kouzlem), **kartografie** (to asi bude vhodne - umet cist v mapach a pripadne tma zanaset novou realitu), plavani, **jizda na koni** (a **schopnost ohodnotit kone**: "mlada kocena, co rozumi autum jako 30-ti letej tata od rodiny"), **etiketa** (protoze se to k ni vubec nehodi, ale k "puvodni" postave ano), **handlovani** (kombinace sebeduvery a zkusenosti - viz. ty kone), **Astronomie**(viz. nize), **Vypravecstvi** (zde kombinace prirozeneho charismatu a 'spolecensky aktivniho' cloveka... grimasy, zmena tonu hlasu,...), **Asketismus** (spis proste "je to mala kocena - moc neji")
 
-#### Kolem Astronomie bych rad postavil velkou cast postavy.. 
+#### Astronomie
+Kolem Astronomie bych rad postavil velkou cast postavy.. 
+
 <sub>do budoucna planuji maga, takze to "vnimani aury lidi", "mentalni utoky/pusobeni na mysl",... tohle je takova ta latentni verze...</sub>
 * Představuji si kombinaci intuice, vnímání aur, psychometrie a občasných prorockých záblesků. Některé věci by Thalion mohl vycítit téměř okamžitě, jiné by vyžadovaly soustředění, fyzický kontakt s předmětem, případně komplexnější rituál.
 * Byl rád, kdybych mohl tuto schopnost používat poměrně volně, třeba i opakovaně. Ne vždy musí jít o zásadní odhalení nebo posun v příběhu. Často bych ji chtěl využívat jako nástroj pro takovou tu příjemnou příběhovou „omáčku“ – elegantní způsob, jak do hry vnášet drobné, zdánlivě nepodstatné, ale atmosférické informace. Samozřejmě pokud by to začalo narušovat tempo hry nebo být otravné, můžeme to řešit přímo v danou chvíli.
