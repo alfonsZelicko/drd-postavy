@@ -166,8 +166,9 @@ vzdal?
 
 [↑ Zpět na obsah](#obsah)
 
-
 ![Layla ala Thalion](https://i.pinimg.com/736x/36/62/e2/3662e28c106980e37dc90acf4d230e03.jpg)
+
+![Muj dablik](https://i.pinimg.com/736x/1d/e3/47/1de347393b21e1d5ab80ba9e21af64fa.jpg)
 
 ## Kouzla:
 1: **Dubl** - pokud na konci dne mam manu, tak ho pokazde vyvolam - takovej osobni sluha/poskok
